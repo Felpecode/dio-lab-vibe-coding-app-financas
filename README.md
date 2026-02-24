@@ -243,53 +243,31 @@ Acesse o protótipo funcional no Lovable:
 <img width="1915" height="901" alt="image" src="https://github.com/user-attachments/assets/9e2b17f9-943f-44ed-bd11-ccae1da7a4bf" />
 <img width="1917" height="901" alt="image" src="https://github.com/user-attachments/assets/286ac31a-5ee2-4886-ad62-370e798e85b7" />
 
-
+Vídeo mostrando o protótipo:
+**https://youtu.be/fvL9Blbb9HM**
 
 ---
 
 ## 🔍 Funcionalidades do App de Organização Financeira
-
-### 1. Dashboard Financeiro
-- Exibe um panorama claro das finanças pessoais:
-  - **Receitas**: Total de ganhos registrados
-  - **Despesas**: Total de gastos
-  - **Saldo**: Diferença entre receitas e despesas
-- Interface simples e direta para facilitar a compreensão
-
-### 2. Assistente Financeiro
-- Personagem conversacional que interage com o usuário
-- Incentiva a conexão de contas e cartões para uma visão completa das finanças
-- Oferece suporte emocional e motivacional
-
-### 3. Registro de Transações via Chat
-- Campo de entrada para o usuário digitar mensagens em linguagem natural
-- Permite registrar gastos e interagir com o assistente de forma fluida
-
-### 4. Metas Financeiras
-- Área dedicada à criação e acompanhamento de objetivos financeiros
-- Sugestão proativa para o usuário definir metas
-- Botão de ação para adicionar novas metas
-
-### 5. Relatórios Personalizados
-- Visualizações simples e adaptadas ao estilo do usuário
-- Acompanhamento de metas e progresso financeiro
-
-### 6. Design Universal
-- Interface acessível e inclusiva:
-  - Linguagem simples
-  - Navegação clara
-  - Compatibilidade com leitores de tela e comandos por voz
-  - Feedbacks visuais e auditivos para facilitar o uso
-
----
+O aplicativo é um organizador financeiro inteligente que funciona por meio de conversas naturais, tornando o controle das finanças simples e acessível. Ele permite que o usuário registre gastos e receitas apenas falando ou digitando frases cotidianas, como “gastei R$ 90 na padaria”, e automaticamente classifica essas transações em categorias.
+Além disso, o app oferece:
+- Metas financeiras: criar, adicionar dinheiro, modificar valores e datas, acompanhar o progresso e até excluir metas (com valores convertidos em receita).
+- Investimentos: registrar, atualizar valores atuais em comparação ao inicial para calcular rendimento, visualizar gráficos de desempenho e excluir investimentos (transformando o valor em receita).
+- Pagamentos recorrentes: configurar receitas e gastos fixos em diferentes períodos (semanal, mensal, anual etc.), com controle de início, término, cancelamento parcial ou total, e avaliação automática de quando entram na conta.
+- Estatísticas detalhadas: gráficos de consumo por categoria, visão de pagamentos correntes e únicos, aba separada para moedas estrangeiras (com opção de escolher a moeda principal), e adaptação de todos os textos ao idioma selecionado (PT/EN).
+- Aba de juros: calcular rendimentos com base em valores, taxas e períodos.
+- Chat de voz: ativado por botão de clique único (verde ligado, vermelho desligado), permitindo que todas as funções sejam usadas por comandos de voz.
+- Agente financeiro virtual: dá dicas personalizadas de economia, sugere metas e investimentos, e responde de forma acolhedora e educativa.
+- Histórico salvo: todas as conversas ficam registradas para consulta futura.
+Em resumo, o app combina simplicidade, acessibilidade e inteligência conversacional para que qualquer pessoa consiga organizar suas finanças sem burocracia, com suporte em texto e voz, e uma experiência inclusiva e personalizada.
 
 ## 🧠 Reflexão
 
 ### O que funcionou bem?  
-O refinamento do PRD previamente feito no Copilot ajudou muito, pois os créditos do Lovable acabaram em apenas 3 interações.
+O Copilot refinou o meu PRD e minhas mudanças o que possibilitou mudanças mais assertivas e menos prompts. O Lovable conseguiu seguir bem minhas propostas e criou um site bem estiloso e criativo com o vibe coding.
 
 ### O que não funcionou como o esperado?  
-Esperava poder interagir mais vezes gratuitamente com o Lovable, mas as interações feitas já foram de grande valia para aprender mais sobre Vibe Coding.
+A aba de investimentos não conseguiu seguir tanto minhas expextativas, queria que pudesse acompanhar mais, em tempo real, as taxas e ações e esta mais adaptado as mudanças de moeda no app.
 
 ### O que aprendi sobre conversar com IAs?  
-Aprendi que é basicamente igual a conversar com uma pessoa: quanto mais detalhes e clareza você dá, melhor é a interação.
+Que é um processo muito fácil e acessível e que pode facilitar tarefas cotidianas.
