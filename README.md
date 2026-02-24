@@ -235,7 +235,15 @@ Quero fazer alguns ajustes importantes no site que criei com você. Por favor, s
 Acesse o protótipo funcional no Lovable:  
 **https://appfinancascaixadiofelipe.lovable.app**
 
-<img width="1920" height="945" alt="image" src="https://github.com/user-attachments/assets/88ef611d-970e-4377-918a-918714311218" />
+<img width="1912" height="897" alt="image" src="https://github.com/user-attachments/assets/0e2f58cd-6dba-49ac-b875-cc458e6dfea0" />
+<img width="1915" height="897" alt="image" src="https://github.com/user-attachments/assets/bda08710-bd58-47e5-b627-2b9c27489a3c" />
+<img width="1915" height="898" alt="image" src="https://github.com/user-attachments/assets/41c6e2f8-a827-4ee0-8ba8-fd8478d902a0" />
+<img width="1912" height="902" alt="image" src="https://github.com/user-attachments/assets/0b81d6c9-a9a1-4aed-baaa-fd56b6d84e6b" />
+<img width="1913" height="900" alt="image" src="https://github.com/user-attachments/assets/42864846-af66-4ccd-b8dd-295c3e734719" />
+<img width="1915" height="901" alt="image" src="https://github.com/user-attachments/assets/9e2b17f9-943f-44ed-bd11-ccae1da7a4bf" />
+<img width="1917" height="901" alt="image" src="https://github.com/user-attachments/assets/286ac31a-5ee2-4886-ad62-370e798e85b7" />
+
+
 
 ---
 
