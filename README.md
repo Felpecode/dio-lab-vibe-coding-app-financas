@@ -1,4 +1,7 @@
 # App de Finanças Pessoais do Felipe P. B. com Vibe Coding: FelInvestimentos
+Este projeto foi desenvolvido como parte de um Desafio de Projeto da DIO – Vibe Coding, utilizando o Lovable e o Copilot Web.
+A proposta consiste em criar um aplicativo de organização financeira pessoal que funciona por meio de interações em linguagem natural.
+
 
 ## 📝 PRD Refinado no Copilot Web
 
