@@ -1,56 +1,117 @@
-# 💸 App de Finanças Pessoais do Venilton com Vibe Coding
-
-Este projeto foi desenvolvido como um Desafio de Projeto da DIO de Vibe Coding utilizando o Lovable e o Copilot Web. A proposta é criar um aplicativo de organização financeira pessoal baseado em interações em linguagem natural.
-
----
+# App de Finanças Pessoais do Felipe P. B. com Vibe Coding: FelInvestimentos
 
 ## 📝 PRD Refinado no Copilot Web
 
 ```markdown
-# PRD - App de Organização Financeira com Conversa Natural
+📘 PRD – Aplicativo de Organização Financeira com Conversa Natural
+1. Visão Geral
+O aplicativo será uma solução de organização financeira pessoal baseada em conversas naturais, permitindo que os usuários controlem seus gastos, metas e investimentos sem burocracia.
+O diferencial é a experiência conversacional fluida, com um agente financeiro virtual que interpreta linguagem natural e oferece recomendações personalizadas.
 
-## Visão Geral
-Criar um aplicativo de organização de finanças pessoais que funcione por meio de conversas em linguagem natural.  
-O objetivo é tornar o controle financeiro mais intuitivo, acessível e livre de burocracias como planilhas ou formulários complexos.
+2. Problema a Resolver
+- Complexidade dos apps atuais: exigem entradas manuais, planilhas e categorias rígidas.
+- Baixa adesão: muitos usuários abandonam o controle por falta de praticidade.
+- Pouca personalização: recomendações genéricas que não se adaptam ao perfil do usuário.
+Solução proposta: um app simples, acessível e inclusivo, que entende frases cotidianas e transforma em registros financeiros automáticos, com dicas personalizadas.
 
-## Problema a Resolver
-Muitas pessoas abandonam o controle financeiro por acharem os aplicativos atuais complicados, exigindo entradas manuais e oferecendo pouca personalização.  
-Queremos resolver isso com uma experiência conversacional fluida e recomendações automáticas que se adaptam ao perfil do usuário.
+3. Público-Alvo
+- Pessoas iniciantes no controle financeiro.
+- Usuários que buscam praticidade e acessibilidade.
+- Pessoas com baixa familiaridade digital ou que se frustraram com apps tradicionais.
 
-## Público-Alvo
-Pessoas que desejam começar a organizar suas finanças de forma prática e sem complicações — especialmente iniciantes que não têm familiaridade com apps financeiros tradicionais.
+4. Funcionalidades-Chave
+- Tela de Início
+- Mensagem sobre a importância das finanças.
+- Criação de conta com email e senha.
+- Registro de Gastos via Chat
+- Exemplo: “gastei R$ 30 no mercado”.
+- Agente responde de forma acolhedora e educativa.
+- Registro automático em categorias.
+- Classificação Automática de Transações
+- Categorias como alimentação, transporte, lazer.
+- Aba “Estatísticas de Consumo” com gráficos e porcentagens.
+- Metas Financeiras
+- Usuário define metas (ex.: economizar R$ 500 até o fim do mês).
+- Agente pode sugerir metas com base nos hábitos.
+- Dicas Personalizadas
+- Recomendações de economia adaptadas ao perfil.
+- Perguntas adicionais para entender melhor o usuário.
+- Aba de Investimentos
+- Registro de investimentos e rendimentos.
+- Gráfico de desempenho a longo prazo.
+- Aba de Transações
+- Lista de transações correntes, imediatas e agendadas.
+- Criação de novas transações via chat ou manualmente.
 
-## Funcionalidades-Chave
-1. Registro de gastos via chat: O usuário descreve seus gastos em linguagem natural, como “gastei R$ 30 no mercado”.
-2. Classificação automática de transações: O app identifica e categoriza os gastos com base no texto.
-3. Definição e acompanhamento de metas financeiras: O usuário pode criar metas como “economizar R$ 500 até o fim do mês”.
-4. Dicas personalizadas do Agente Financeiro: Um assistente virtual que sugere formas de economizar com base nos hábitos do usuário.
-5. Relatórios simples e personalizados: Visualizações claras dos gastos, metas e progresso, adaptadas ao estilo do usuário.
+5. Princípios de Design Universal
+- Interface clara e legível.
+- Navegação simples e sem sobrecarga.
+- Compatibilidade com leitores de tela e comandos por voz.
+- Feedback visual e auditivo para confirmar ações.
+- Linguagem acessível e amigável.
 
-## Princípio de Design Universal
-A solução será construída com base em Design Universal, garantindo que o aplicativo ofereça uma experiência acessível, intuitiva e inclusiva para o maior número possível de pessoas — independentemente de idade, nível de alfabetização digital, limitações físicas ou cognitivas.  
-Isso inclui:
-- Interface clara e legível
-- Navegação simples e sem sobrecarga de informações
-- Compatibilidade com leitores de tela e comandos por voz
-- Feedbacks visuais e auditivos para facilitar o uso
+6. Recursos Técnicos Necessários
+- NLP (Processamento de Linguagem Natural) para interpretar frases.
+- Motor de Categorização Automática para classificar gastos.
+- Motor de Recomendações para dicas personalizadas.
+- Banco de Dados Seguro com criptografia.
+- Interface Conversacional com suporte a texto e voz.
 
-## Entregável da IA
-Gerar um plano de MVP contendo:
-- As principais telas (chat, metas, relatórios)
-- Recursos técnicos necessários (NLP, categorização automática, motor de recomendações)
-- Estratégia de validação inicial com usuários reais
-- Linguagem acessível e tom educativo, em português
-- Aplicação dos princípios de Design Universal desde o protótipo
+7. Estratégia de Validação Inicial
+- Teste com grupo piloto de usuários iniciantes.
+- Feedback rápido via chat após interações.
+- Métricas de sucesso:
+- Número de transações registradas.
+- Metas criadas e acompanhadas.
+- Engajamento com dicas do agente.
+
+8. Entregável da IA
+- Plano de MVP com telas principais (chat, metas, relatórios).
+- Recursos técnicos detalhados.
+- Estratégia de validação com usuários reais.
+- Linguagem acessível e educativa.
+- Aplicação dos princípios de Design Universal desde o protótipo.
 ```
 
 ---
 
 ## 💬 Interações com o Lovable
 
-> Crie um App de Finanças Pessoais com base no seguinte PRD (Product Requirements Document): {PRD}
+> Crie um app de Finanças com base nesse PRD:: {PRD}
 
-> Tentei criar uma meta chamada Reserva de Emergencia, mas ela não apareceu no componente. A impressão que tive foi que apenas o Assistente Financeiro a reconheceu, poderia verificar? Além disso, onde vejo os gráficos e extrato?
+> Implementar as seguintes funções no aplicativo:
+
+Função de troca de idioma (PT ↔ EN):
+
+Criar um botão ou comando no menu de configurações que permita alternar entre português e inglês.
+
+Garantir que todos os textos sejam traduzidos corretamente, evitando que partes fiquem em inglês quando o idioma selecionado for português.
+
+Ajuste do texto inicial do assistente:
+
+Substituir o texto atual:
+
+"Olá! 👋 Sou seu assistente financeiro. Me conte sobre seus gastos, como: 'gastei R$30 no mercado' ou pergunte sobre suas finanças!"
+
+Pelo novo texto:
+
+"Olá! 👋 Sou seu assistente financeiro. Me conte sobre seus gastos, como: 'gastei R$90 na padaria' ou pergunte sobre suas finanças!"
+
+Funções adicionais no chat:
+
+Permitir que o usuário crie metas diretamente via conversa (ex.: "Quero economizar R$ 500 até o fim do mês").
+
+Adicionar dinheiro às metas já criadas (ex.: "Colocar R$ 100 na meta de viagem").
+
+Registrar investimentos via chat (ex.: "Adicione R$ 200 em ações da empresa X").
+
+Calcular e mostrar o desempenho dos investimentos ao longo do tempo, exibindo gráficos simples e acessíveis.
+
+Requisitos de acessibilidade:
+
+Garantir que essas funções estejam disponíveis tanto em texto quanto em comandos de voz.
+
+Manter linguagem clara e acessível em todas as respostas do agente financeiro.
 
 > Sim (Quer que eu adicione uma tela de relatórios com gráficos e extrato detalhado das transações?)
 
