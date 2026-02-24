@@ -264,10 +264,10 @@ Em resumo, o app combina simplicidade, acessibilidade e inteligência conversaci
 ## 🧠 Reflexão
 
 ### O que funcionou bem?  
-O Copilot refinou o meu PRD e minhas mudanças o que possibilitou mudanças mais assertivas e menos prompts. O Lovable conseguiu seguir bem minhas propostas e criou um site bem estiloso e criativo com o vibe coding.
+O Copilot refinou o meu PRD e minhas mudanças o que possibilitou mudanças mais assertivas e em menos prompts. O Lovable conseguiu seguir bem minhas propostas e criou um site bem estiloso e criativo com o vibe coding.
 
 ### O que não funcionou como o esperado?  
-A aba de investimentos não conseguiu seguir tanto minhas expextativas, queria que pudesse acompanhar mais, em tempo real, as taxas e ações e esta mais adaptado as mudanças de moeda no app.
+A aba de investimentos não conseguiu seguir tanto minhas expectativas, queria que pudesse acompanhar mais, em tempo real, as taxas e ações e estar mais adaptado as mudanças de moeda no app.
 
 ### O que aprendi sobre conversar com IAs?  
 Que é um processo muito fácil e acessível e que pode facilitar tarefas cotidianas.
